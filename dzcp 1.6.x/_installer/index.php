@@ -119,7 +119,7 @@
           <br /><br />
           <b><span style="text-align:center"><u>!!!WICHTIG!!!</u></span>
           <br />
-          Erstell vor dem Ausf&uuml;hren des Installers ein Datenbank Backup. Haftungsanspr&uuml; f&uuml;r Sch&auml;den durch fehlerhafte
+          Erstell vor dem Ausf&uuml;hren des Installers ein Datenbank Backup. Haftungsanspr&uuml;che f&uuml;r Sch&auml;den durch fehlerhafte
           Einbindung oder Nutzung sind ausgeschlossen!</b>
         </td>
       </tr>
